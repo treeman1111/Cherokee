@@ -1,5 +1,42 @@
-{
+﻿{
 	"dictionary": [
-
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏓᏅᏖᏗ",
+			"singular_romanized": ".a2danh23teh2di",
+			"singular_en": "thought"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᏅᏖᎯᎶᎠ",
+			"third_present_romanized": "a1danh2te23hi3l.o2'a",
+			"third_present_en": [ "he's pondering", "he's considering" ],
+			"first_present_syllabary": "ᎦᏓᏅᏖᎯᎶᎠ",
+			"first_present_romanized": "g.a2da2nv1te23hi3l.o2'a",
+			"completive_past_syallabary": "ᎤᏓᏅᏖᎯᎶᎥᎢ",
+			"completive_past_romanized": "u1danh2te23hi3l.o2'v23'i",
+			"continuous_syllabary": "ᎠᏓᏅᏖᎯᎶᏍᎪᎢ",
+			"continuous_romanized": "a1danh2te23hi3lo1sgo3'i",
+			"immediate_syllabary": "ᎭᏓᏅᏖᎯᎶᏣ",
+			"immediate_romanized": "h.a2danh2te2hi2lo23ja",
+			"infinitive_syllabary": "ᎤᏓᏅᏖᎯᎶᏍᏗ",
+			"infinitive_romanized": "u2danh2te23hi3lo1sdi"
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏓᏃᏴᏟᏍᏗᎭ",
+			"third_present_romanized": "a1d.a2no2hyv2hl.i2sd.i3ha",
+			"third_present_en": [ "he's making noise", "it's making noise" ],
+			"first_present_syllabary": "ᎦᏓᏃᏴᎵᏍᏗᎭ",
+			"first_present_romanized": "g.a2d.a2no2yv1l.i2sd.i3ha",
+			"completive_past_syallabary": "ᎤᏓᏃᏴᏟᏍᏔᏅᎢ",
+			"completive_past_romanized": "u1d.a2no2hyv2hl.i2st.a2nv3'i",
+			"continuous_syllabary": "ᎠᏓᏃᏴᏟᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "a1d.a2no2hyv2hl.i2sdi23sg.o3'i",
+			"immediate_syllabary": "ᎭᏓᏃᏴᏟᏍᏓ",
+			"immediate_romanized": "h.a2d.a2no2hyv2hl.i2sda",
+			"infinitive_syllabary": "ᎤᏓᏃᏴᏟᏍᏙᏗ",
+			"infinitive_romanized": "u2d.a2no2hyv2hl.i2sdoh3di"
+		},
 	]
 }
