@@ -1,0 +1,94 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎵᏍᏇᏚᎩᎠ",
+			"third_present_romanized": "",
+			"third_present_en": "",
+			"first_present_syllabary": "ᎦᎵᏍᏇᏚᎩᎠ",
+			"first_present_romanized": "",
+			"completive_past_syallabary": "ᎤᎵᏍᏇᏚᎩᏒᎢ",
+			"completive_past_romanized": "",
+			"continuous_syllabary": "ᎠᎵᏍᏇᏚᎩᏍᎪᎢ",
+			"continuous_romanized": "",
+			"immediate_syllabary": "ᎭᎵᏍᏇᏚᎩ",
+			"immediate_romanized": "",
+			"infinitive_syllabary": "ᎤᎵᏍᏇᏚᎩᏍᏗ",
+			"infinitive_romanized": ""
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎵᏍᏇᏚᎲᏍᎦ",
+			"third_present_romanized": "",
+			"third_present_en": "",
+			"first_present_syllabary": "ᎦᎵᏍᏇᏚᎲᏍᎦ",
+			"first_present_romanized": "",
+			"completive_past_syallabary": "ᎤᎵᏍᏇᏚᏅᎢ",
+			"completive_past_romanized": "",
+			"continuous_syllabary": "ᎠᎵᏍᏇᏚᎲᏍᎪᎢ",
+			"continuous_romanized": "",
+			"immediate_syllabary": "ᎭᎵᏍᏇᏚᎲᎦ",
+			"immediate_romanized": "",
+			"infinitive_syllabary": "ᎤᎵᏍᏇᏚᏍᏗ",
+			"infinitive_romanized": ""
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎵᏍᏇᏚᏬ",
+			"singular_romanized": "",
+			"singular_en": "",
+			"plural_syllabary": "ᏗᎵᏍᏇᏚᏬ",
+			"plural_romanized": ""
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎵᏐᏍᏗᎭ",
+			"third_present_romanized": "",
+			"third_present_en": "",
+			"first_present_syllabary": "ᎦᎵᏐᏍᏗᎭ",
+			"first_present_romanized": "",
+			"completive_past_syallabary": "ᎤᎵᏐᏍᏔᏅᎢ",
+			"completive_past_romanized": "",
+			"continuous_syllabary": "ᎠᎵᏐᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "",
+			"immediate_syllabary": "ᎭᎵᏐᏍᏓ",
+			"immediate_romanized": "",
+			"infinitive_syllabary": "ᎤᎵᏐᏍᏙᏗ",
+			"infinitive_romanized": ""
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᎵᏒᏍᏗᎭ",
+			"third_present_romanized": "",
+			"third_present_en": "",
+			"first_present_syllabary": "ᎦᎵᏒᏍᏗᎭ",
+			"first_present_romanized": "",
+			"completive_past_syallabary": "ᎤᎵᏒᏍᏔᏅᎢ",
+			"completive_past_romanized": "",
+			"continuous_syllabary": "ᎠᎵᏒᏍᏗᏍᎪᎢ",
+			"continuous_romanized": "",
+			"immediate_syllabary": "ᎭᎵᏒᏍᏓ",
+			"immediate_romanized": "",
+			"infinitive_syllabary": "ᎤᎵᏒᏍᏙᏗ",
+			"infinitive_romanized": ""
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎹ",
+			"singular_romanized": "",
+			"singular_en": ""
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎹ",
+			"singular_romanized": "",
+			"singular_en": ""
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᎹᏢᏗᎢ",
+			"singular_romanized": "",
+			"singular_en": ""
+		}
+	]
+}
