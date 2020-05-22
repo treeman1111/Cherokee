@@ -1,0 +1,98 @@
+﻿{
+	"dictionary": [
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏁᏟᏗ",
+			"singular_romanized": "",
+			"singular_en": "",
+			"plural_syllabary": "ᏗᏁᏟᏗ",
+			"plural_romanized": ""
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏁᏟᏗᎭ",
+			"third_present_romanized": "",
+			"third_present_en": "",
+			"first_present_syllabary": "ᎦᏁᏟᏗᎭ",
+			"first_present_romanized": "",
+			"completive_past_syallabary": "ᎤᏁᏟᏔᏅᎢ",
+			"completive_past_romanized": "",
+			"continuous_syllabary": "ᎠᏁᏟᏗᏍᎪᎢ",
+			"continuous_romanized": "",
+			"immediate_syllabary": "ᎭᏁᏟᏓ",
+			"immediate_romanized": "",
+			"infinitive_syllabary": "ᎤᏁᏟᏙᏗ",
+			"infinitive_romanized": ""
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏁᎳᏗᎠ",
+			"third_present_romanized": "",
+			"third_present_en": "",
+			"first_present_syllabary": "ᎦᏁᎳᏗᎠ",
+			"first_present_romanized": "",
+			"completive_past_syallabary": "ᎤᏁᎳᏛᎢ",
+			"completive_past_romanized": "",
+			"continuous_syllabary": "ᎠᏁᎳᏗᏍᎪᎢ",
+			"continuous_romanized": "",
+			"immediate_syllabary": "ᎭᏁᎳᏓ",
+			"immediate_romanized": "",
+			"infinitive_syllabary": "ᎤᏁᎳᏗᏍᏗ",
+			"infinitive_romanized": ""
+		},
+		{
+			"type": "vt",
+			"third_present_syllabary": "ᎠᏅᏓᏗᎠ",
+			"third_present_romanized": "",
+			"third_present_en": "",
+			"first_present_syllabary": [ "ᏥᏯᏅᏓᏗᎠ", "ᎦᏅᏓᏗᎠ" ],
+			"first_present_romanized": "",
+			"completive_past_syallabary": "ᎤᏅᏓᏛᎢ",
+			"completive_past_romanized": "",
+			"continuous_syllabary": "ᎠᏅᏓᏗᏍᎪᎢ",
+			"continuous_romanized": "",
+			"immediate_syllabary": [ "ᎯᏯᏅᏓᏓ", "ᎭᏅᏓᏓ" ],
+			"immediate_romanized": "",
+			"infinitive_syllabary": "ᎤᏅᏓᏗᏍᏗ",
+			"infinitive_romanized": ""
+		},
+		{
+			"type": "n",
+			"singular_syllabary": "ᎠᏂ",
+			"singular_romanized": "",
+			"singular_en": ""
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏂᏙᎾᎠ",
+			"third_present_romanized": "",
+			"third_present_en": "",
+			"first_present_syllabary": "ᎣᏥᏙᎾᎠ",
+			"first_present_romanized": "",
+			"completive_past_syallabary": "ᎠᏂᏙᎾᎥᎢ",
+			"completive_past_romanized": "",
+			"continuous_syllabary": "ᎠᏂᏙᎾᎣᎢ",
+			"continuous_romanized": ""
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏂᏟᎾ",
+			"third_present_romanized": "",
+			"third_present_en": "",
+			"first_present_syllabary": "ᎣᏥᏟᎾ",
+			"first_present_romanized": "",
+			"continuous_syllabary": "ᎠᏂᏟᏃᎢ",
+			"continuous_romanized": ""
+		},
+		{
+			"type": "vi",
+			"third_present_syllabary": "ᎠᏂᎾ",
+			"third_present_romanized": "",
+			"third_present_en": "",
+			"first_present_syllabary": "ᎣᏥᎾ",
+			"first_present_romanized": "",
+			"continuous_syllabary": "ᎠᏂᏃᎢ",
+			"continuous_romanized": ""
+		}
+	]
+}
