@@ -133,10 +133,10 @@
     <None Update="cherokee_english_dictionary\page9.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="code\lookup.txt">
+    <None Update="code\RavenRockParsing\lookup.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="code\ravenrock.txt">
+    <None Update="code\RavenRockParsing\ravenrock.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="easy_cherokee_dictionary\page1.json">
