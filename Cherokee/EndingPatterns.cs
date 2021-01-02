@@ -2,7 +2,6 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -186,7 +185,8 @@ namespace Cherokee.code.verb_ending_patterns
                 foreach (var test in mappedVerbs)
                 {
                     if (test.ThirdCompletive == null || test.ThirdPresent == verb.ThirdPresent) continue;
-                    if (test.ThirdCompletive.Contains(strippedCompletive) && test.ThirdPresent.Contains(strippedPresent)) {
+                    if (test.ThirdCompletive.Contains(strippedCompletive) && test.ThirdPresent.Contains(strippedPresent))
+                    {
                         pairs.Add((verb, test));
                     }
                 }
@@ -215,7 +215,7 @@ namespace Cherokee.code.verb_ending_patterns
             if (thirdPersonToken.Type == JTokenType.String)
             {
                 verb.ThirdPresent = (string)thirdPersonToken;
-            } 
+            }
             else if (thirdPersonToken.Type == JTokenType.Array)
             {
                 var array = (JArray)thirdPersonToken;
@@ -289,7 +289,7 @@ namespace Cherokee.code.verb_ending_patterns
                 if (thirdInfinitiveToken.Type == JTokenType.String)
                 {
                     verb.ThirdInfinitive = (string)thirdInfinitiveToken;
-                } 
+                }
                 else if (thirdInfinitiveToken.Type == JTokenType.Array)
                 {
                     var array = (JArray)thirdInfinitiveToken;
@@ -297,7 +297,8 @@ namespace Cherokee.code.verb_ending_patterns
                 }
             }
 
-            if (verb.ThirdPresent != null) {
+            if (verb.ThirdPresent != null)
+            {
                 bool romanized = TryRomanize(verb.ThirdPresent, out string romThirdPres);
                 if (romanized)
                 {
@@ -309,11 +310,12 @@ namespace Cherokee.code.verb_ending_patterns
                 }
             }
 
-            if (verb.FirstPresent != null) {
+            if (verb.FirstPresent != null)
+            {
                 if (TryRomanize(verb.FirstPresent, out string romFirstPres))
                 {
                     verb.FirstPresent = romFirstPres;
-                } 
+                }
                 else
                 {
                     verb.HadInvalidChars = true;
@@ -325,7 +327,7 @@ namespace Cherokee.code.verb_ending_patterns
                 if (TryRomanize(verb.ThirdCompletive, out string romThirdComp))
                 {
                     verb.ThirdCompletive = romThirdComp;
-                } 
+                }
                 else
                 {
                     verb.HadInvalidChars = true;
@@ -425,7 +427,7 @@ namespace Cherokee.code.verb_ending_patterns
                 {
                     var content = File.ReadAllText(path);
                     var page = JObject.Parse(content);
-                    var dictionaryArray = (JArray) page["dictionary"];
+                    var dictionaryArray = (JArray)page["dictionary"];
                     var dictionaryEntries = new List<JObject>();
 
                     foreach (var entry in dictionaryArray)
